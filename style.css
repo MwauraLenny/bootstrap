@@ -1,0 +1,33 @@
+.one{background-color: black;
+height: 100vh}
+.two{background-color: #6ea8fe;height: 100vh}
+.three{background-color: red;
+height: 100vh}
+.four{background-color:gold;
+height: 100vh}
+.five{background-color: orangered}
+.top{height: 20vh;
+width: 12%}
+
+.carousel-inner img{width: 100%;
+height: 70vh}
+
+h4{color: green;
+text-align: center;
+font-size: 50px;
+font-family: "cursive"}
+
+.row .passport img{width: 100%;
+height:25vh}
+
+.row .passport{border-radius: 10px}
+
+.row .passport p:hover{cursor: pointer;
+color:gold }
+
+.row .passport h4:hover{cursor: pointer;
+color:gold}
+
+.row .btn-dark:hover{color: gold}
+
+.container .row{margin: 20px}
